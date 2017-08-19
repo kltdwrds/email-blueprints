@@ -9,3 +9,5 @@ Email Blueprints is a collection of HTML email templates that can serve as a sol
 [basic2](./templates/simple-postcard)
 
 [basic3](./templates/3col-1-3-rightsidebar.html)
+
+[photots](./assets/)
